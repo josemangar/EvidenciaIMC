@@ -1,0 +1,9 @@
+controller\RegistroServlet.class
+controller\LoginServlet.class
+dao\RegistroDAO.class
+controller\RegistroIMCServlet.class
+model\Calculadora.class
+controller\LogoutServlet.class
+dao\UsuarioDAO.class
+model\Usuario.class
+model\Registro.class
